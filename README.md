@@ -1,4 +1,5 @@
 # QueueEase — Online booking for small shops
+![CI](https://github.com/NuTT7/queueease/actions/workflows/ci.yml/badge.svg)
 
 A full-stack appointment booking system for barbershops, salons, clinics and other single-chair businesses.
 Customers pick a service and a free time slot and get a booking code; the owner manages the day's queue,
